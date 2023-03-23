@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OsRaMoSaO
-- 👀 I’m interested: in roblox exploiting
-- 🌱 I’m currently: learning lua scripting
-- 💞️ I’m looking to collaborate on: roblox scripts!
+- 👀 I’m interested: Web and Exploit development
+- 🌱 I’m currently: learning web dev
+- 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: Your_Local_Furry#3965
 
 <!---
