@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OsRaMoSaO
-- 👀 I’m interested: Web and Exploit development
-- 🌱 I’m currently: learning web dev
+- 👀 I’m interested: Web development with react and misc python development
+- 🌱 I’m currently: learning web development
 - 💞️ I’m looking to collaborate on: anything
 - 📫 How to reach me: Your_Local_Furry#3965
 
