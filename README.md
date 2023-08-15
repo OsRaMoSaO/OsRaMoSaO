@@ -3,8 +3,8 @@
   * Unity game development
   * Python development
   * C# / .NET applications development
-- If anyone wants to reach out to me please contact me on discourd using:
-📫Your_Local_Furry#3965 / your_local_furrie
+- If anyone wants to reach out to me for any reason please contact me on discourd using:
+-📫Your_Local_Furry#3965 / your_local_furrie
 
 <!---
 OsRaMoSaO/OsRaMoSaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
