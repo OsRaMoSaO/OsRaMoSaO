@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @OsRaMoSaO
-- 👀 I’m interested: Web development with react and misc python development
-- 🌱 I’m currently: learning web development
-- 💞️ I’m looking to collaborate on: anything
-- 📫 How to reach me: Your_Local_Furry#3965 / your_local_furrie
+- Hi im your_local_furry or OsRaMoSaO
+- 👀 I usualy do:
+  * Unity game development
+  * Python development
+  * C# / .NET applications development
+- If anyone wants to reach out to me please contact me on discourd using:
+📫Your_Local_Furry#3965 / your_local_furrie
 
 <!---
 OsRaMoSaO/OsRaMoSaO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
