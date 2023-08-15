@@ -6,7 +6,7 @@
 - If anyone wants to reach out to me for any reason please contact me on discourd using:
 - Your_Local_Furry#3965 / your_local_furrie
 
-[![GitHub Streak](https://github-readme-streak-stats-duscwx2ef-osramosao.vercel.app?user=OsRaMoSaO&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-duscwx2ef-osramosao.vercel.app?user=OsRaMoSaO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 <!---
