@@ -3,6 +3,7 @@
   * Unity game development
   * Python development
   * C# / .NET applications development
+  * Occasional Java ds bot development
 - If anyone wants to reach out to me for any reason please contact me on discourd using:
 - Your_Local_Furry#3965 / your_local_furrie
 
