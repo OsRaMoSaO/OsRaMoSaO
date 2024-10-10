@@ -1,5 +1,5 @@
 - Hi im your_local_furry or OsRaMoSaO
-- 👀 I usualy do and know how to:
+- 👀 I usualy do and know how to do:
   * Unity game development
   * Python development
   * C# / .NET applications development
