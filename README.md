@@ -1,9 +1,8 @@
 - Hi im your_local_furry or OsRaMoSaO
 - 👀 I usualy do and know how to do:
   * Unity game development
-  * Python development
   * C# / .NET applications development
-  * 3d
+  * 3d in blender (animation)
 - ✨ Currently learning ✨:
   * Improving what i know!!!
 - If anyone wants to reach out to me for any reason please contact me on discourd @: your_local_furrie
