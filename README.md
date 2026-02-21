@@ -1,10 +1,10 @@
 - Hi im your_local_furry or OsRaMoSaO
-- 👀 I usualy do and know how to do:
+- 👀 I usually do and know how to do:
   * Unity game development
   * C# / .NET applications development
   * Random blender stuff
 - ✨ Currently learning ✨:
-  * Improving what i know!!!
+  * Android - kotlin
 - If anyone wants to reach out to me for any reason please contact me on discord @: your_local_furrie
 
 <!---
