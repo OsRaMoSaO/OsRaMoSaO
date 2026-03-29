@@ -2,9 +2,10 @@
 - 👀 I usually do and know how to do:
   * Unity game development
   * C# / .NET applications development
+  * Android - (Kotlin + Jetpack compose)
   * Random blender stuff
 - ✨ Currently learning ✨:
-  * Android - kotlin
+  * Mainting my current knowledge
 - If anyone wants to reach out to me for any reason please contact me on discord @: your_local_furrie
 
 <!---
